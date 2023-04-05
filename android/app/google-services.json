@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1091353093592",
+    "project_id": "udemy-course-a209e",
+    "storage_bucket": "udemy-course-a209e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091353093592:android:906f860b4318b66b36bead",
+        "android_client_info": {
+          "package_name": "com.example.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091353093592-3ne4evp602fhihabb3h67p4534j7614v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.news_app",
+            "certificate_hash": "fecc3515c74570c45636529c9eadf234e39c92e5"
+          }
+        },
+        {
+          "client_id": "1091353093592-l3avq37jbi00boq2hj93tgo8nd99i469.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF1WmEK4X1-523LT2MP-EUvy1o1a9OLMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091353093592-l3avq37jbi00boq2hj93tgo8nd99i469.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
